@@ -1,4 +1,4 @@
-# **Desafio Backend Sênior**
+# **Kruzer - Desafio Backend Sênior**
 
 O desafio consiste na criação de três micro-serviços fundamentais para a gestão eficiente de um sistema de comércio eletrônico: catálogo de produtos (PIM), atendimento (CHECKOUT) e gestão de pedidos (OMS). Cada micro-serviço desempenha um papel específico e crucial na operação do sistema, atendendo aos requisitos de negócio e técnicos detalhados a seguir:
 
