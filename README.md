@@ -28,6 +28,12 @@ O desafio consiste na criação de três micro-serviços fundamentais para a ges
 - Crie um instalador da aplicação utilizando uma imagem publicada no Docker Hub, permitindo que a plataforma seja instalada na máquina do usuário com um único comando Docker.
 - Utilize o MongoDB - Change Streams para auxiliar na publicação de mensagens no Kafka, proporcionando uma solução mais robusta e eficiente para a troca de mensagens entre os micro-serviços.
 
+### **Entregáveis:**
+- Código fonte da aplicação hospedado em um repositório público no GitHub.
+- Instruções claras para rodar a aplicação localmente (de preferência no arquivo README).
+- Ao finalizar, enviar e-mail para **felipe.martins@krzlabs.io** com cópia para **andre.ciornavei@krzlabs.io** e **eduardo.fernandes@krzlabs.io**.
+- Esse desafio deve ser entregue em até 7 dias após a entrevista inicial.
+
 ---
 
 Este desafio técnico oferece uma oportunidade para demonstrar habilidades avançadas em desenvolvimento de micro-serviços, design de arquitetura, integração de sistemas e implementação de tecnologias emergentes, bem como analisa a capacidade do candidato de encapsular todas essas tecnologias em um projeto funcional.
